@@ -10,3 +10,4 @@ int main()
   printf("Factorial of %d is: %d",number,fact);    
 return 0;  
 }
+//workspace2 factorial c program
