@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+ big3() {
 
   double n1, n2, n3;
 
@@ -21,4 +21,3 @@ int main() {
 
   return 0;
 }
-//big3 num edited
